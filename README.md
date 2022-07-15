@@ -4,6 +4,7 @@ Orquestra packages. The tools which this package tracks versions of are:
 
 - black
 - flake8
+- Flake8-pyproject
 - isort
 - mypy
 - pytest
